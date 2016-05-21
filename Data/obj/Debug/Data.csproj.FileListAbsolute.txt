@@ -1,0 +1,17 @@
+D:\user\Data\bin\Debug\Common.Logging.Core.dll
+D:\user\Data\bin\Debug\Common.Logging.dll
+D:\user\Data\bin\Debug\Iesi.Collections.dll
+D:\user\Data\bin\Debug\NHibernate.dll
+D:\user\Data\bin\Debug\Common.Logging.pdb
+D:\user\Data\bin\Debug\Common.Logging.xml
+D:\user\Data\bin\Debug\Common.Logging.Core.pdb
+D:\user\Data\bin\Debug\Common.Logging.Core.xml
+D:\user\Data\bin\Debug\Iesi.Collections.xml
+D:\user\Data\bin\Debug\NHibernate.xml
+D:\user\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\user\Data\bin\Debug\Blaze.Services.User.Data.dll
+D:\user\Data\bin\Debug\Blaze.Services.User.Data.pdb
+D:\user\Data\bin\Debug\Blaze.Services.User.DomainModels.dll
+D:\user\Data\bin\Debug\Blaze.Services.User.DomainModels.pdb
+D:\user\Data\obj\Debug\Blaze.Services.User.Data.dll
+D:\user\Data\obj\Debug\Blaze.Services.User.Data.pdb

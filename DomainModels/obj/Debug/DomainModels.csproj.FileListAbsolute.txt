@@ -1,0 +1,5 @@
+D:\user\DomainModels\obj\Debug\DomainModels.csprojResolveAssemblyReference.cache
+D:\user\DomainModels\bin\Debug\Blaze.Services.User.DomainModels.dll
+D:\user\DomainModels\bin\Debug\Blaze.Services.User.DomainModels.pdb
+D:\user\DomainModels\obj\Debug\Blaze.Services.User.DomainModels.dll
+D:\user\DomainModels\obj\Debug\Blaze.Services.User.DomainModels.pdb
